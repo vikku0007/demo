@@ -1,0 +1,296 @@
+Uri: https://preview.colorlib.com/theme/medex/
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\index.htm
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/images/bg_2.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\bg_2.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/about.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\about.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/bg_3.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\bg_3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdept-1.jpg.pagespeed.ic.Sd_LDkagVQ.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdept-1.jpg.pagespeed.ic.Sd_LDkagVQ.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdept-2.jpg.pagespeed.ic.0Qy2F9AQ8s.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdept-2.jpg.pagespeed.ic.0Qy2F9AQ8s.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/dept-3.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\dept-3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/dept-4.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\dept-4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/dept-5.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\dept-5.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/dept-6.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\dept-6.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/dept-7.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\dept-7.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/doc-1.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\doc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/doc-2.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\doc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/doc-3.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\doc-3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/doc-4.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\doc-4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/image_1.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\image_1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/image_2.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\image_2.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/image_3.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\image_3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/bg_4.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\bg_4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/person_1.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\person_1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/person_2.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\person_2.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/person_3.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\person_3.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap
+File Name: E:\officeWork\demo\preview.colorlib.com\css2.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: E:\officeWork\demo\preview.colorlib.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/medex/css/A.animate.css+owl.carousel.min.css+owl.theme.default.min.css+magnific-popup.css+bootstrap-datepicker.css+jquery.timepicker.css+flaticon.css+style.css,Mcc.WZ_WA0RTKr.css.pagespeed.cf.3y033dYmUF.css
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\css\A.animate.css owl.carousel.min.css owl.theme.default.min.css magnific-popup.css bootstrap-datepicker.css jquery.timepicker.css flaticon.css style.css,Mcc.WZ_WA0RTKr.css.pagespeed.cf.3y033dYmUF.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/medex/index.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\index.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/about.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\about.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/services.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\services.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/doctors.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\doctors.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/department.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\department.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/pricing.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\pricing.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/gallery.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\gallery.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/blog.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\blog.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/contact.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\contact.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/medex/blog-single.html
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\blog-single.html
+Content Type: text/html
+
+Uri: https://colorlib.com/
+File Name: E:\officeWork\demo\preview.colorlib.com\index.htm
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: E:\officeWork\demo\preview.colorlib.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/medex/js/jquery.min.js
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/medex/js/jquery-migrate-3.0.1.min.js+popper.min.js+bootstrap.min.js.pagespeed.jc.ywCEUu7Uhq.js
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\js\jquery-migrate-3.0.1.min.js popper.min.js bootstrap.min.js.pagespeed.jc.ywCEUu7Uhq.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/medex/js/jquery.easing.1.3.js+jquery.waypoints.min.js+jquery.stellar.min.js+owl.carousel.min.js.pagespeed.jc.WkgGNL2lYk.js
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\js\jquery.easing.1.3.js jquery.waypoints.min.js jquery.stellar.min.js owl.carousel.min.js.pagespeed.jc.WkgGNL2lYk.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/medex/js/jquery.magnific-popup.min.js+jquery.animateNumber.min.js+bootstrap-datepicker.js+jquery.timepicker.min.js+scrollax.min.js.pagespeed.jc.HfKUqWogp5.js
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\js\jquery.magnific-popup.min.js jquery.animateNumber.min.js bootstrap-datepicker.js jquery.timepicker.min.js scrollax.min.js.pagespeed.jc.HfKUqWogp5.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false
+File Name: E:\officeWork\demo\preview.colorlib.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://preview.colorlib.com/theme/medex/js/google-map.js+main.js.pagespeed.jc.kAGYQqHZ5D.js
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\js\google-map.js main.js.pagespeed.jc.kAGYQqHZ5D.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-23581568-13
+File Name: E:\officeWork\demo\preview.colorlib.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194
+File Name: E:\officeWork\demo\preview.colorlib.com\beacon.min.js\v652eace1692a40cfa3763df669d7439c1639079717194
+Content Type: text/javascript
+
+Uri: https://preview.colorlib.com/theme/medex/fonts/flaticon/font/Flaticon.eot
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\fonts\flaticon\font\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/medex/fonts/flaticon/font/Flaticon.eot?
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\fonts\flaticon\font\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/medex/fonts/flaticon/font/Flaticon.woff
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\fonts\flaticon\font\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/medex/fonts/flaticon/font/Flaticon.ttf
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\fonts\flaticon\font\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/medex/fonts/flaticon/font/Flaticon.svg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\fonts\flaticon\font\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdept-5.jpg.pagespeed.ic.bxc0WDHkgy.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdept-5.jpg.pagespeed.ic.bxc0WDHkgy.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdept-6.jpg.pagespeed.ic.3G558PL7NP.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdept-6.jpg.pagespeed.ic.3G558PL7NP.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdoc-1.jpg.pagespeed.ic.jW-_ygGFCU.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdoc-1.jpg.pagespeed.ic.jW-_ygGFCU.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdoc-2.jpg.pagespeed.ic.5s-tw0yKRw.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdoc-2.jpg.pagespeed.ic.5s-tw0yKRw.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdoc-3.jpg.pagespeed.ic.WtAu-OkQ3Y.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdoc-3.jpg.pagespeed.ic.WtAu-OkQ3Y.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdoc-4.jpg.pagespeed.ic.CfimsGL1-I.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdoc-4.jpg.pagespeed.ic.CfimsGL1-I.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/ximage_1.jpg.pagespeed.ic.YB4aSgOwe-.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\ximage_1.jpg.pagespeed.ic.YB4aSgOwe-.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/ximage_2.jpg.pagespeed.ic.RtnJhd4pGX.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\ximage_2.jpg.pagespeed.ic.RtnJhd4pGX.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/ximage_3.jpg.pagespeed.ic.wJszX91lUA.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\ximage_3.jpg.pagespeed.ic.wJszX91lUA.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xbg_4.jpg.pagespeed.ic.LnkZcB0H2W.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xbg_4.jpg.pagespeed.ic.LnkZcB0H2W.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xperson_2.jpg.pagespeed.ic.yyrmjBH91b.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xperson_2.jpg.pagespeed.ic.yyrmjBH91b.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xbg_1.jpg.pagespeed.ic.x2BOr1oUSh.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xbg_1.jpg.pagespeed.ic.x2BOr1oUSh.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdoc-5.jpg.pagespeed.ic.QD0uPNe6ZN.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdoc-5.jpg.pagespeed.ic.QD0uPNe6ZN.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdoc-6.jpg.pagespeed.ic.mzlE4BrJmX.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdoc-6.jpg.pagespeed.ic.mzlE4BrJmX.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdoc-7.jpg.pagespeed.ic.8wvzf4gdkN.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdoc-7.jpg.pagespeed.ic.8wvzf4gdkN.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/xdoc-8.jpg.pagespeed.ic.N67Z35XaIo.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\xdoc-8.jpg.pagespeed.ic.N67Z35XaIo.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/ximage_4.jpg.pagespeed.ic.PDSYYrrKB9.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\ximage_4.jpg.pagespeed.ic.PDSYYrrKB9.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/ximage_5.jpg.pagespeed.ic.LHTpRIkElL.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\ximage_5.jpg.pagespeed.ic.LHTpRIkElL.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/image_6.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\image_6.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/image_4.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\image_4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/image_5.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\image_5.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/dept-1.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\dept-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/medex/images/dept-2.jpg
+File Name: E:\officeWork\demo\preview.colorlib.com\theme\medex\images\dept-2.jpg
+Content Type: image/jpeg
+

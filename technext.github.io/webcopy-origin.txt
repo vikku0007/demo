@@ -1,0 +1,308 @@
+Uri: https://technext.github.io/medlife/
+File Name: E:\officeWork\demo\technext.github.io\medlife\index.htm
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/img/bg-img/hero1.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\hero1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/bg-img/breadcumb3.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\breadcumb3.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/bg-img/breadcumb1.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\breadcumb1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/core-img/favicon.ico
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\core-img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://technext.github.io/medlife/style.css
+File Name: E:\officeWork\demo\technext.github.io\medlife\style.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/index.html
+File Name: E:\officeWork\demo\technext.github.io\medlife\index.html
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/about-us.html
+File Name: E:\officeWork\demo\technext.github.io\medlife\about-us.html
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/services.html
+File Name: E:\officeWork\demo\technext.github.io\medlife\services.html
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/blog.html
+File Name: E:\officeWork\demo\technext.github.io\medlife\blog.html
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/single-blog.html
+File Name: E:\officeWork\demo\technext.github.io\medlife\single-blog.html
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/contact.html
+File Name: E:\officeWork\demo\technext.github.io\medlife\contact.html
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/elements.html
+File Name: E:\officeWork\demo\technext.github.io\medlife\elements.html
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/index-icons.html
+File Name: E:\officeWork\demo\technext.github.io\medlife\index-icons.html
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/img/bg-img/g1.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\g1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/bg-img/g2.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\g2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/bg-img/g3.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\g3.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/bg-img/g4.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\g4.jpg
+Content Type: image/jpeg
+
+Uri: https://colorlib.com/
+File Name: E:\officeWork\demo\technext.github.io\index.htm
+Content Type: text/html
+
+Uri: https://themewagon.com/
+File Name: E:\officeWork\demo\technext.github.io\index-1.htm
+Content Type: text/html
+
+Uri: https://technext.github.io/medlife/img/core-img/logo.png
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\core-img\logo.png
+Content Type: image/png
+
+Uri: https://technext.github.io/medlife/img/icons/alarm-clock.png
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://technext.github.io/medlife/img/icons/envelope.png
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\icons\envelope.png
+Content Type: image/png
+
+Uri: https://technext.github.io/medlife/img/icons/map-pin.png
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\icons\map-pin.png
+Content Type: image/png
+
+Uri: https://technext.github.io/medlife/img/bg-img/medical1.png
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\medical1.png
+Content Type: image/png
+
+Uri: https://technext.github.io/medlife/img/blog-img/1.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/p1.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\p1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/2.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/p2.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\p2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/3.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\3.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/p3.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\p3.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/ln1.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\ln1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/ln2.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\ln2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/ln3.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\ln3.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/js/jquery/jquery-2.2.4.min.js
+File Name: E:\officeWork\demo\technext.github.io\medlife\js\jquery\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/medlife/js/popper.min.js
+File Name: E:\officeWork\demo\technext.github.io\medlife\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/medlife/js/bootstrap.min.js
+File Name: E:\officeWork\demo\technext.github.io\medlife\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/medlife/js/plugins.js
+File Name: E:\officeWork\demo\technext.github.io\medlife\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/medlife/js/active.js
+File Name: E:\officeWork\demo\technext.github.io\medlife\js\active.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900
+File Name: E:\officeWork\demo\technext.github.io\css.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/css/bootstrap.min.css
+File Name: E:\officeWork\demo\technext.github.io\medlife\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/css/animate.css
+File Name: E:\officeWork\demo\technext.github.io\medlife\css\animate.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/css/owl.carousel.css
+File Name: E:\officeWork\demo\technext.github.io\medlife\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/css/magnific-popup.css
+File Name: E:\officeWork\demo\technext.github.io\medlife\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/css/font-awesome.min.css
+File Name: E:\officeWork\demo\technext.github.io\medlife\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/css/themify-icons.css
+File Name: E:\officeWork\demo\technext.github.io\medlife\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/css/medilife-icons.css
+File Name: E:\officeWork\demo\technext.github.io\medlife\css\medilife-icons.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/css/nice-select.css
+File Name: E:\officeWork\demo\technext.github.io\medlife\css\nice-select.css
+Content Type: text/css
+
+Uri: https://technext.github.io/medlife/img/bg-img/video.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\video.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/bg-img/about1.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\about1.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/bg-img/video2.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\video2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/core-img/play.png
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\core-img\play.png
+Content Type: image/png
+
+Uri: https://technext.github.io/medlife/img/bg-img/tab.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\tab.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/bg-img/breadcumb2.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\breadcumb2.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/bg-img/benefits.png
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\bg-img\benefits.png
+Content Type: image/png
+
+Uri: https://technext.github.io/medlife/img/blog-img/4.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/5.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\5.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/6.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\6.jpg
+Content Type: image/jpeg
+
+Uri: https://technext.github.io/medlife/img/blog-img/7.jpg
+File Name: E:\officeWork\demo\technext.github.io\medlife\img\blog-img\7.jpg
+Content Type: image/jpeg
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyAwuyLRa1uKNtbgx6xAJVmWy-zADgegA2s
+File Name: E:\officeWork\demo\technext.github.io\maps\api\js
+Content Type: text/javascript
+
+Uri: https://technext.github.io/medlife/js/map-active.js
+File Name: E:\officeWork\demo\technext.github.io\medlife\js\map-active.js
+Content Type: application/javascript
+
+Uri: https://technext.github.io/medlife/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://technext.github.io/medlife/fonts/fontawesome-webfont.eot?
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://technext.github.io/medlife/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://technext.github.io/medlife/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://technext.github.io/medlife/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://technext.github.io/medlife/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://technext.github.io/medlife/fonts/themify.eot?-fvbane
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://technext.github.io/medlife/fonts/themify.eot?
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://technext.github.io/medlife/fonts/themify.woff?-fvbane
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://technext.github.io/medlife/fonts/themify.ttf?-fvbane
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://technext.github.io/medlife/fonts/themify.svg?-fvbane
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://technext.github.io/medlife/fonts/icomoon.eot?bfkv4y
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://technext.github.io/medlife/fonts/icomoon.ttf?bfkv4y
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://technext.github.io/medlife/fonts/icomoon.woff?bfkv4y
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://technext.github.io/medlife/fonts/icomoon.svg?bfkv4y
+File Name: E:\officeWork\demo\technext.github.io\medlife\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.youtube.com/watch?v=0O2aH4XLbto
+File Name: E:\officeWork\demo\technext.github.io\watch.html
+Content Type: text/html
+
